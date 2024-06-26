@@ -1,0 +1,10 @@
+O valor 1 está no arquivo na posição 1
+O valor 2 está no arquivo na posição 3
+O valor 3 está no arquivo na posição 4
+O valor 4 não está no arquivo, valores mais próximos: 3 e 5
+O valor 5 está no arquivo na posição 5
+O valor 6 não está no arquivo, valores mais próximos: 5 e 8
+O valor 7 não está no arquivo, valores mais próximos: 5 e 8
+O valor 8 está no arquivo na posição 6
+O valor 9 não está no arquivo, valores mais próximos: 8 e 13
+O valor 0 não está no arquivo, valores mais próximos: -1 e 1

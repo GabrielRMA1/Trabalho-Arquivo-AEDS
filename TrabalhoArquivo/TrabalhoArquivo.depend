@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717271888 source:c:\users\conta\onedrive\Área de trabalho\faculdade\algoritmo e estruturas de dados\trabalhoarquivo\main.c
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+
